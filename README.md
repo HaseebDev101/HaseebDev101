@@ -2,7 +2,8 @@
 
 
 
-![animation](intro.gif)
+<img src="intro.gif" />
+
  I’m Haseeb, I build Minecraft plugins, web stuff, and Discord bots, basically breaking and fixing the internet for fun.
 
 
