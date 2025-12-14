@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
- ![animation](https://image2url.com/gifs/1765715446308-9385d82f-9ec2-424c-a644-0f95266ac3b8.gif)
+
  I’m Haseeb, I build Minecraft plugins, web stuff, and Discord bots, basically breaking and fixing the internet for fun.
 
 
