@@ -10,6 +10,6 @@ I’m Haseeb, I build Minecraft plugins, web stuff, and Discord bots, basically 
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=HaseebDev101&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?
+
 
 [![](https://visitcount.itsvg.in/api?id=HaseebDev101&icon=6&color=0)](https://visitcount.itsvg.in)
